@@ -1,0 +1,465 @@
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Dine-In)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 01:17
+McChicken x 3                                     RM 26.70
+Beef Burger x 1                                   RM 9.90
+McCafe Premium Roast Coffee/Tea x 1               RM 5.00
+----------------------------------------------------------
+Total Price                                       RM 36.60
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 01:21
+McChicken x 6                                     RM 53.40
+GCB-Grilled Chicken Burger x 1                    RM 10.90
+Double Quarter Pounder with Cheese x 4            RM 59.60
+----------------------------------------------------------
+Total Price                                       RM 19.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 01:25
+McChicken x 8                                     RM 71.20
+GCB-Grilled Chicken Burger x 1                    RM 10.90
+Beef Burger x 3                                   RM 29.70
+----------------------------------------------------------
+Total Price                                       RM 19.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:20
+McChicken x 2                                     RM 17.80
+Double Quarter Pounder with Cheese x 1            RM 14.90
+Cheeseburger x 1                                  RM 8.90
+Beef Burger x 1                                   RM 9.90
+----------------------------------------------------------
+Total Price                                       RM 32.70
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:27
+GCB-Grilled Chicken Burger x 1                    RM 10.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:29
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:29
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:33
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:36
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:37
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:42
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:42
+Beef Burger x 1                                   RM 9.90
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 9.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:43
+McChicken x 1                                     RM 8.90
+Beef Burger x 1                                   RM 9.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:45
+Spicy Chicken McDeluxe x 1                        RM 9.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 2(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 03:45
+GCB-Grilled Chicken Burger x 1                    RM 10.90
+----------------------------------------------------------
+Total Price                                       RM .00
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 15:52
+McChicken x 1                                     RM 8.90
+Double Quarter Pounder with Cheese x 1            RM 14.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:15
+McChicken x 1                                     RM 8.90
+Beef Burger x 1                                   RM 9.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:17
+McChicken x 1                                     RM 8.90
+Beef Burger x 2                                   RM 19.80
+----------------------------------------------------------
+Total Price                                       RM 28.70
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:20
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 2(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:21
+McChicken x 1                                     RM 8.90
+Beef Burger x 1                                   RM 9.90
+----------------------------------------------------------
+Total Price                                       RM 18.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:22
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 2(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:23
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 3(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:23
+Double Quarter Pounder with Cheese x 1            RM 14.90
+----------------------------------------------------------
+Total Price                                       RM 14.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 4(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:24
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:24
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 2(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:25
+Beef Burger x 1                                   RM 9.90
+Double Quarter Pounder with Cheese x 1            RM 14.90
+----------------------------------------------------------
+Total Price                                       RM 24.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 3(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:25
+Beef Burger x 2                                   RM 19.80
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 28.70
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 4(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:26
+Beef Burger x 1                                   RM 9.90
+McChicken x 2                                     RM 17.80
+----------------------------------------------------------
+Total Price                                       RM 27.70
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:42
+McChicken x 1                                     RM 8.90
+Double Quarter Pounder with Cheese x 1            RM 14.90
+----------------------------------------------------------
+Total Price                                       RM 23.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:43
+Double Quarter Pounder with Cheese x 1            RM 14.90
+----------------------------------------------------------
+Total Price                                       RM 14.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 2(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 16:43
+Beef Burger x 1                                   RM 9.90
+Double Quarter Pounder with Cheese x 1            RM 14.90
+----------------------------------------------------------
+Total Price                                       RM 24.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 17:16
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 17:16
+GCB-Grilled Chicken Burger x 1                    RM 10.90
+----------------------------------------------------------
+Total Price                                       RM 10.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 17:33
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 17:34
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 17:35
+GCB-Grilled Chicken Burger x 1                    RM 10.90
+----------------------------------------------------------
+Total Price                                       RM 10.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 2(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 17:37
+Beef Burger x 1                                   RM 9.90
+----------------------------------------------------------
+Total Price                                       RM 9.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 17:59
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 18:40
+McChicken x 1                                     RM 8.90
+Quarter Pounder with Cheese x 1                   RM 12.90
+----------------------------------------------------------
+Total Price                                       RM 21.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 18:45
+GCB-Grilled Chicken Burger x 1                    RM 10.90
+Double Quarter Pounder with Cheese x 1            RM 14.90
+----------------------------------------------------------
+Total Price                                       RM 25.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 18:45
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: null(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 18:46
+McChicken x 1                                     RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 8.90
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 19:09
+McChicken x 1                                     RM 8.90
+Double Quarter Pounder with Cheese x 1            RM 14.90
+----------------------------------------------------------
+Total Price                                       RM 23.80
+--------------Gerbang Alaf Restaurant Sdn Bhd-------------
+                          McDonald                          
+----------------------------------------------------------
+Your Order number is: 1(Take Away)
+----------------------------------------------------------
+
+Wed 2020 Mar 11 19:30
+McChicken x 1                                     RM 8.90
+Beef Burger x 1                                   RM 9.90
+Moist Chocolate Cake x 1                          RM 8.90
+----------------------------------------------------------
+Total Price                                       RM 27.70

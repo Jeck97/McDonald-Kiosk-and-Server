@@ -1,0 +1,19 @@
+McChicken_1_8.9_Wed 2020 Mar 11 16:20;
+McChicken_1_8.9_Wed 2020 Mar 11 16:21;Beef Burger_1_9.9_Wed 2020 Mar 11 16:21;
+McChicken_1_8.9;Wed 2020 Mar 11 16:22
+McChicken_1_8.9;Wed 2020 Mar 11 16:23
+Double Quarter Pounder with Cheese_1_14.9;Wed 2020 Mar 11 16:23
+McChicken_1_8.9;Wed 2020 Mar 11 16:24
+McChicken_1_8.9;Wed 2020 Mar 11 16:24;
+Beef Burger_1_9.9;Double Quarter Pounder with Cheese_1_14.9;Wed 2020 Mar 11 16:25;
+Beef Burger_2_19.8;McChicken_1_8.9;Wed 2020 Mar 11 16:25;
+Beef Burger_1_9.9;McChicken_2_17.8;Wed 2020 Mar 11 16:26;
+McChicken_1_8.9;Double Quarter Pounder with Cheese_1_14.9;Wed 2020 Mar 11 16:42;
+Double Quarter Pounder with Cheese_1_14.9;Wed 2020 Mar 11 16:43;
+Beef Burger_1_9.9;Double Quarter Pounder with Cheese_1_14.9;Wed 2020 Mar 11 16:43;
+GCB-Grilled Chicken Burger_1_10.9;Wed 2020 Mar 11 17:16;
+GCB-Grilled Chicken Burger_1_10.9;Wed 2020 Mar 11 17:35;
+Beef Burger_1_9.9;Wed 2020 Mar 11 17:37;
+McChicken_1_8.9;Quarter Pounder with Cheese_1_12.9;Wed 2020 Mar 11 18:40;
+McChicken_1_8.9;Double Quarter Pounder with Cheese_1_14.9;Wed 2020 Mar 11 19:09;
+McChicken_1_8.9;Beef Burger_1_9.9;Moist Chocolate Cake_1_8.9;Wed 2020 Mar 11 19:30;
